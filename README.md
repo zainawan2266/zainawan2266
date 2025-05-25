@@ -1,7 +1,7 @@
 ![logo](https://github.com/zainawan2266/zainawan2266/blob/main/Dark%20Teal%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Zain Awan</h1>
 <h3 align="center">A Cybersecurity Expert from Pakistan</h3>
-<img alt="zain.gif" align="right" width="400px" src="https://camo.githubusercontent.com/7a02863bbcda9ec0f72fa5fe7484ed0f8bedaa4c744d8c087a102f1b4d1d78d6/68747470733a2f2f632e74656e6f722e636f6d2f735751774b4e2d6235766f41414141432f6861636b65642d796f752d686176652d6265656e2d6861636b65642e676966" >
+<img alt="zain.gif" align="right" width="400px" margin-top="700px" src="https://camo.githubusercontent.com/7a02863bbcda9ec0f72fa5fe7484ed0f8bedaa4c744d8c087a102f1b4d1d78d6/68747470733a2f2f632e74656e6f722e636f6d2f735751774b4e2d6235766f41414141432f6861636b65642d796f752d686176652d6265656e2d6861636b65642e676966" >
 
 <p align="left"> <a href="https://twitter.com/zainawan2266" target="blank"><img src="https://img.shields.io/twitter/follow/zainawan2266?logo=twitter&style=for-the-badge&colorB=00acee" alt="zainawan2266" /></a> </p>
 
